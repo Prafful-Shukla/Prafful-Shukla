@@ -1,4 +1,4 @@
-# Hi there, I'm Prafful shukla - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Prafful shukla - aka [Fanatic Neo][youtube] 👋 
 
 ## I'm a Student,Learner,youtuber,Developer !!
 - 🔭 Check out my CodeChef ,Leetcode and GeeksforGeeks profile 
