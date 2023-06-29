@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prafful Shukla</h1>
-<h3 align="center">I'm a Student, Learner, Youtuber, Developer !!</h3>
+<h3 align="center">I'm a Student, Learner, Youtuber(*16K*), Developer !!</h3>
 
 - 🌱 I’m currently learning **Java Backend Development.**
 
 - 💬 Ask me about **JAVA, DSA , REACT.**
+
+- I'm intermediate in Adobe software **Premiere Pro, Photoshop etc.**
 
 - 📫 How to reach me **praffulshuklaoffical@gmail.com**
 
