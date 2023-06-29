@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prafful Shukla</h1>
 <h3 align="center">I'm a Student, Learner, Youtuber, Developer !!</h3>
 
-- 🌱 I’m currently learning **Backend Development.**
+- 🌱 I’m currently learning **Java Backend Development.**
 
-- 💬 Ask me about **JAVA, DSA.**
+- 💬 Ask me about **JAVA, DSA , REACT.**
 
 - 📫 How to reach me **praffulshuklaoffical@gmail.com**
 
